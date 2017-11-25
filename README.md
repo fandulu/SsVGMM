@@ -1,5 +1,6 @@
 # SsVGMM
 A code for novelty detection and classification.
+
 @inproceedings{yang2017application,
   title={Application of SsVGMM to medical data-classification with novelty detection},
   author={Yang, Fan and Soriano, Jaymar and Kubo, Takatomi and Ikeda, Kazushi},
