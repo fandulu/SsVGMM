@@ -1,7 +1,10 @@
 %% Variational Bayesian for Semi-supervised Gaussian Mixture Model
 %% This code is develeped from Mo Chen's Variational Bayesian Gaussian Mixture Model, only for research purposes.
 close all; clear;
+
+%The inputs are features and labels of samples, including training and testing sets. 
 load test.mat % Unlabel is represented by '0', while other categaries are intergers start from '1'. 
+
 %% VB fitting
 [label, label_merge,g,model, L] = SsIGMM_VI(training_data,training_label);
 %% The indexs and parameters of each class
