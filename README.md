@@ -1,5 +1,8 @@
 # A semi-supervised variational Gaussian mixture model
 
+![alt text](https://github.com/fandulu/SsVGMM/blob/master/demo.png)
+
+
 @inproceedings{yang2017application,
   title={Application of SsVGMM to medical data-classification with novelty detection},
   author={Yang, Fan and Soriano, Jaymar and Kubo, Takatomi and Ikeda, Kazushi},
