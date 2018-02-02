@@ -12,5 +12,5 @@
   organization={IEEE}
 }
 
-This program can be easily understood from the demo.m file. 
+This program can be easily understood from the demo.m file. A dynamic constraint is used in the variational inference, so that a semi-supervised learning can be performed.
 
