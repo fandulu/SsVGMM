@@ -1,5 +1,4 @@
-# SsVGMM
-A code for novelty detection and classification.
+# A semi-supervised variational Gaussian mixture model
 
 @inproceedings{yang2017application,
   title={Application of SsVGMM to medical data-classification with novelty detection},
