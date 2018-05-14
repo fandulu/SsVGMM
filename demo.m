@@ -1,5 +1,4 @@
 %% Variational Bayesian for Semi-supervised Gaussian Mixture Model
-%% This code is develeped from Mo Chen's Variational Bayesian Gaussian Mixture Model, only for research purposes.
 close all; clear;
 
 %The inputs are features and labels of samples, including training and testing sets. 
