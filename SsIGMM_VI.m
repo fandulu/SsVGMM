@@ -38,7 +38,7 @@ label = zeros(1,n);
 
 if (sum(Label_ind)==0) % Unspervised learning
         for iter = 2:maxiter
-        iter
+        %iter
         model = expect(X,model);
         model = maximize(X,model,prior);
         L(iter) = bound(X,model,prior)/n;
@@ -46,7 +46,7 @@ if (sum(Label_ind)==0) % Unspervised learning
         end
 else % Semi-supervised learning
     for iter = 2:maxiter
-        iter
+        %iter
         model = expect_semi(X,model,semi_label,Label_ind);
         model = maximize(X,model,prior);
         L(iter) = bound(X,model,prior)/n;
