@@ -3,7 +3,7 @@
 ![alt text](https://github.com/fandulu/SsVGMM/blob/master/demo.png)
 
 [Paper draft](https://github.com/fandulu/SsVGMM/blob/master/Application_of_SsVGMM_to_Medical_Data___Classification_with_Novelty_Detection.pdf)
-[Slides](https://github.com/fandulu/SsVGMM/blob/master/Application_of_SsVGMM_to_Medical_Data___Classification_with_Novelty_Detection.pdf)
+[Slides](https://github.com/fandulu/SsVGMM/blob/master/SsVGMM_slides.pdf)
 
 @inproceedings{yang2017application,
   title={Application of SsVGMM to medical data-classification with novelty detection},
