@@ -1,6 +1,6 @@
 # A semi-supervised variational Gaussian mixture model
 
-![alt text](https://github.com/fandulu/SsVGMM/blob/master/demo.png)
+![alt text](https://github.com/fandulu/SsVGMM/blob/master/cover.png)
 
 [Paper draft](https://github.com/fandulu/SsVGMM/blob/master/Application_of_SsVGMM_to_Medical_Data___Classification_with_Novelty_Detection.pdf)
 [Slides](https://github.com/fandulu/SsVGMM/blob/master/SsVGMM_slides.pdf)
