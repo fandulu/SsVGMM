@@ -1,4 +1,4 @@
-# A semi-supervised variational Gaussian mixture model
+# Application of SsVGMM to medical data-classification with novelty detection (A semi-supervised variational Gaussian mixture model)
 
 ![alt text](https://github.com/fandulu/SsVGMM/blob/master/cover.png)
 
